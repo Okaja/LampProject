@@ -4,6 +4,9 @@ This project covers:
 -  Configuration of Apache Server
 - Managing MySQL databases
 - Writing PHP code for server-side functionality.
+- Creating a Virtual Host for Website using Apache
+
+This project documents the major LAMP stack components and their roles in web application in web application
 
 ## Connecting to EC2 using Putty
 - Syntax: ssh -i private-key-name.pem ubuntu@Public-IP-address
@@ -122,8 +125,6 @@ Add the code below in to the file:
 ![ReloadApache](./img/14.listindex.phpasdefaultlanding.png)
 
 Save the file and reload Apache
-
-
 
 ### Reload Apache:
 
